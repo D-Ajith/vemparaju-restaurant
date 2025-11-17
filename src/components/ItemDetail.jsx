@@ -1,4 +1,4 @@
-import { ArrowLeft, Clock, Star, Heart } from "lucide-react";
+import { ArrowLeft, ShoppingCart, Clock, Star, Heart } from "lucide-react";
 import ItemCard from "./ItemCard";
 
 const ItemDetail = ({ item, onBack, recentlyViewed, onOpenItem }) => {
